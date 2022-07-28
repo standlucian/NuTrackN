@@ -1,0 +1,4 @@
+/home/geckodev/Desktop/NuGASP/CMakeFiles/rebuild_cache.dir
+/home/geckodev/Desktop/NuGASP/CMakeFiles/edit_cache.dir
+/home/geckodev/Desktop/NuGASP/CMakeFiles/QTCanvasDemo.dir
+/home/geckodev/Desktop/NuGASP/CMakeFiles/QTCanvasDemo_autogen.dir

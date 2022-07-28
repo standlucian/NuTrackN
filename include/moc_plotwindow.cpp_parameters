@@ -1,0 +1,7 @@
+-I/home/geckodev/root/include
+-I/home/geckodev/Desktop/NuGASP/include
+-I/home/geckodev/Desktop/NuGASP
+-I/home/geckodev/Desktop/NuGASP
+-o
+/home/geckodev/Desktop/NuGASP/include/moc_plotwindow.cpp
+/home/geckodev/Desktop/NuGASP/include/plotwindow.hpp
